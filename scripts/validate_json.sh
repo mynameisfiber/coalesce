@@ -1,4 +1,5 @@
 #!/bin/bash
+# Make sure all json in this branch is valid using python's json module
 
 PYTHON=$( which python2.7 )
 if [ -z $PYTHON ]; then
