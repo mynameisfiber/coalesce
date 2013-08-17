@@ -1,0 +1,22 @@
+{
+    "type" : "categories",
+    "checksum" : "AD2425oij23",
+    "data" : [
+        {
+            "category" : "technology",
+            "last_update" : 1376772154,
+            "num_articles" : 1
+        },
+        {
+            "category" : "science",
+            "last_update" : 1376732154,
+            "num_articles" : 1
+        },
+        {
+            "category" : "music",
+            "last_update" : 1376485154,
+            "num_articles" : 1
+        }
+    ]
+}
+

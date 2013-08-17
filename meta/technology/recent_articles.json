@@ -1,0 +1,20 @@
+
+{
+    "type" : "recent_articles",
+    "category" : "technology",
+    "checksum" : "AD2425oij23",
+    "data" : [
+        {
+            "title" : "How to make websites",
+            "category" : "technology",
+            "tags" : ["programming", "python", "simplicity", "internet"],
+            "author" : "Micha Gorelick",
+            "author_id" : 1513,
+            "image" : "http://awesomeimage.com/image.png",
+            "description" : "Short sample of article... either chosen by author or first N characters of the article",
+            "date" : 1376772154,
+            "article_ref" : "unique_article_name"
+        }
+    ]
+}
+

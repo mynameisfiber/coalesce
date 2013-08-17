@@ -1,0 +1,41 @@
+{
+    "type" : "recent_articles",
+    "category" : null,
+    "checksum" : "AD2425oij23",
+    "data" : [
+        {
+            "title" : "How to make websites",
+            "category" : "technology",
+            "tags" : ["programming", "python", "simplicity", "internet"],
+            "author" : "Micha Gorelick",
+            "author_id" : 1513,
+            "image" : "http://awesomeimage.com/image.png",
+            "description" : "Short sample of article... either chosen by author or first N characters of the article",
+            "date" : 1376772154,
+            "article_ref" : "unique_article_name"
+        },
+        {
+            "title" : "Pan-dimensional lizard creatures: Finding the right one for you",
+            "category" : "science",
+            "tags" : ["overlords", "lizards", "love"],
+            "author" : "Steve McQueen",
+            "author_id" : 31415,
+            "image" : "http://lizzardinfo.net/space_lizard.png",
+            "description" : "In a world ruled by pan-dimensional lizard creatures, it's hard knowing when you've met the right lizard for you.  Who knows, the lizard you approach may become the next president of the USA or even the new world order.",
+            "date" : 1376732154,
+            "article_ref" : "crazy_lizard_creatures"
+        },
+        {
+            "title" : "Guitar Hero as art",
+            "category" : "music",
+            "tags" : ["video games", "art"],
+            "author" : "Eddie Van Halen",
+            "author_id" : 27106,
+            "image" : "http://guitarhero4lif.com/street_cred.png",
+            "description" : "I think it's safe to say that I've become addicted to Guitar Hero this week! I first played it at a friend's house on Monday and by Thursday, we had it in our house and I ended up playing it for 6 hours straight. I have a blister on my finger and achy arms from rocking so hard on the drums!",
+            "date" : 1376485154,
+            "article_ref" : "guitar_hero_as_art"
+        }
+    ]
+}
+

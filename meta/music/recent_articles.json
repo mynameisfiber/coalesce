@@ -1,0 +1,19 @@
+{
+    "type" : "recent_articles",
+    "category" : "music",
+    "checksum" : "AD2425oij23",
+    "data" : [
+        {
+            "title" : "Guitar Hero as art",
+            "category" : "music",
+            "tags" : ["video games", "art"],
+            "author" : "Eddie Van Halen",
+            "author_id" : 27106,
+            "image" : "http://guitarhero4lif.com/street_cred.png",
+            "description" : "I think it's safe to say that I've become addicted to Guitar Hero this week! I first played it at a friend's house on Monday and by Thursday, we had it in our house and I ended up playing it for 6 hours straight. I have a blister on my finger and achy arms from rocking so hard on the drums!",
+            "date" : 1376485154,
+            "article_ref" : "guitar_hero_as_art"
+        }
+    ]
+}
+

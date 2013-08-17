@@ -1,0 +1,20 @@
+
+{
+    "type" : "recent_articles",
+    "category" : "science",
+    "checksum" : "AD2425oij23",
+    "data" : [
+        {
+            "title" : "Pan-dimensional lizard creatures: Finding the right one for you",
+            "category" : "science",
+            "tags" : ["overlords", "lizards", "love"],
+            "author" : "Steve McQueen",
+            "author_id" : 31415,
+            "image" : "http://lizzardinfo.net/space_lizard.png",
+            "description" : "In a world ruled by pan-dimensional lizard creatures, it's hard knowing when you've met the right lizard for you.  Who knows, the lizard you approach may become the next president of the USA or even the new world order.",
+            "date" : 1376732154,
+            "article_ref" : "crazy_lizard_creatures"
+        }
+    ]
+}
+
