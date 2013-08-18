@@ -1,5 +1,5 @@
 Articles should be added here within the correct directory.  For example, if I
-have an article that I wish to enter into the Technology category, I would add
+have an article that I wish to enter into the "Technology" category, I would add
 my article, in markdown form, to the "technology" directory here.
 
 Notes:
